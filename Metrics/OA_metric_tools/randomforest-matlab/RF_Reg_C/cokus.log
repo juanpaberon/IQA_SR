@@ -1,0 +1,599 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=mex 2020.3.15)  24 SEP 2020 17:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**src/cokus.cpp src/mex_regressionRF_train.cpp src/reg_RF.cpp -o mexRF_train -D
+MATLAB
+(./src/cokus.cpp
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.2 ...om integers uniformly distributed in 0..(2^
+                                                  32 - 1)
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.45 
+     
+? 
+
+Overfull \hbox (741.82744pt too wide) in paragraph at lines 1--45
+\tenrm in-te-gers uni-formly di-stri-bu-ted in 0..(2$[]2 \tensy ^^@ \tenrm 1)\t
+eni ==startingfromanyoddseedin\tenrm 0\teni ::\tenrm (2[]2 \tensy ^^@ \tenrm 1)
+\teni :Thisversionisarecode==byShawnCokus\tenrm (\teni Cokus\tenrm @\teni math:
+washington:edu\tenrm )\teni onMarch\tenrm 8\teni ; \tenrm 1998\teni ofaversionb
+y==TakujiNishimura\tenrm (\teni whohadsuggestionsfromTopherCooperandMarcRieffel
+in==July \tensy ^^@|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\discretionary replacing 2
+..\tenrm n
+..\tenrm -
+.\tenrm n
+.\kern-0.27779
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (88.16232pt too wide) in paragraph at lines 1--45
+\teni August\tenrm 1997)\teni :====Effectivenessoftherecoding\tenrm (\teni onGo
+edel\tenrm 2\teni :math:washington:edu; aDECAlpha==runningOSF=\tenrm 1)\teni us
+ingGCC \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni A
+.\teni u
+.\teni g
+.\kern0.35878
+.\teni u
+.etc.
+
+
+Overfull \hbox (438.88281pt too wide) in paragraph at lines 1--45
+\teni O\tenrm 3\teni asacompiler \tenrm : \teni beforerecoding \tenrm : 51\teni
+ :\tenrm 6\teni sec:to==generate\tenrm 300\teni millionrandomnumbers\tenrm ; \t
+eni afterrecoding \tenrm : 24\teni :\tenrm 0\teni sec:forthesame==\tenrm (\teni
+ i:e:; \tenrm 46\teni :\tenrm 5\teni ==numbergenerationspersecondonthismachine:
+====AccordingtotheURL <|
+
+\hbox(7.5+2.5)x469.75499
+.\teni O
+.\kern0.27779
+.\tenrm 3
+.\teni a
+.\teni s
+.etc.
+
+
+Overfull \hbox (463.54863pt too wide) in paragraph at lines 1--45
+\teni http \tenrm : \teni ==www:math:keio:ac:jp= matumoto=emt:html > ==\tenrm (
+\teni andparaphrasingabitinplaces\tenrm )\teni ; theMersenneTwisteris\tenrm \\t
+eni designed==withconsiderationoftheflawsofvariousexistinggenerators;[] has==ap
+eriodof\tenrm 2[]9937 \tensy ^^@|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\teni h
+.\teni t
+.\teni t
+.\teni p
+.\glue(\thickmuskip) 2.77771 plus 2.77771
+.etc.
+
+
+Overfull \hbox (49.874pt too wide) in paragraph at lines 1--45
+\tenrm 1\teni ; givesasequencethatis\tenrm 623 \tensy ^^@ \teni dimensionally==
+equidistributed; and\tenrm \\teni haspassedmanystringenttests; includingthe==di
+e \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 1
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni g
+.\kern0.35878
+.etc.
+
+
+Overfull \hbox (1050.40955pt too wide) in paragraph at lines 1--45
+\teni hardtestofG:MarsagliaandtheloadtestofP:Hellekalekand==S:Wegenkittl:[]Itis
+efficientinmemoryusage\tenrm (\teni typicallyusing\tenrm 2506\teni ==to\tenrm 5
+012\teni bytesofstaticdata; dependingondatatypesizes; andthecode==isquiteshorta
+swell\tenrm )\teni :Itgeneratesrandomnumbersinbatchesof\tenrm 624\teni ==atatim
+e; sothecachingandpipeliningofmodernsystemsisexploited:==Itisalsodivide \tensy 
+^^@|
+
+\hbox(7.51782+2.5)x469.75499, glue set - 1.0
+.\teni h
+.\teni a
+.\teni r
+.\kern0.27779
+.\teni d
+.etc.
+
+
+Overfull \hbox (2713.37453pt too wide) in paragraph at lines 1--45
+\teni andmod \tensy ^^@ \teni free:====Thislibraryisfreesoftware\tenrm ; \teni 
+youcanredistributeitand=ormodifyit==underthetermsoftheGNULibraryGeneralPublicLi
+censeaspublishedby==theFreeSoftwareFoundation\tenrm (\teni eitherversion\tenrm 
+2\teni oftheLicenseor; atyour==option; anylaterversion\tenrm )\teni :Thislibrar
+yisdistributedinthehopethat==itwillbeuseful; butWITHOUTANYWARRANTY; withouteven
+theimplied==warrantyofMERCHANTABILITYorFITNESSFORAPARTICULARPURPOSE:See==theGNU
+LibraryGeneralPublicLicenseformoredetails:Youshouldhave==receivedacopyoftheGNUL
+ibraryGeneralPublicLicensealongwiththis==library\tenrm ; \teni ifnot; writetoth
+eFreeSoftwareFoundation; Inc:; \tenrm 59\teni Temple==Place; Suite\tenrm 330\te
+ni ; Boston; MA\tenrm 02111 \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni a
+.\teni n
+.\teni d
+.\teni m
+.\teni o
+.etc.
+
+
+Overfull \hbox (277.53004pt too wide) in paragraph at lines 1--45
+\tenrm 1307\teni ; USA:====ThecodeasShawnreceiveditincludedthefollowingnotice \
+tenrm : \teni ====Copyright\tenrm (\teni C\tenrm )1997\teni MakotoMatsumotoandT
+akujiNishimura:When==youusethis; sendane \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 1
+.\tenrm 3
+.\tenrm 0
+.\tenrm 7
+.\teni ;
+.etc.
+
+
+Overfull \hbox (21.26546pt too wide) in paragraph at lines 1--45
+\teni mailto < matumoto\tenrm @\teni math:keio:ac:jp > with==anappropriaterefer
+encetoyourwork:====ItwouldbenicetoCC \tenrm :\teni <|
+
+\hbox(7.5+2.5)x469.75499
+.\teni m
+.\teni a
+.\teni i
+.\teni l
+.\kern0.19678
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.46 //#
+        include <stdio.h>
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.47 //#
+        include <stdlib.h>
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.57 #
+      define N              (624)                 // length of state vector
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.58 #
+      define M              (397)                 // a period parameter
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.59 #
+      define K              (0x9908B0DFU)         // a magic constant
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.60 #
+      define hiBit(u)       ((u) & 0x80000000U)   // mask all but highest   ...
+
+? 
+! Misplaced alignment tab character &.
+l.60 #define hiBit(u)       ((u) &
+                                   0x80000000U)   // mask all but highest   ...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.61 #
+      define loBit(u)       ((u) & 0x00000001U)   // mask all but lowest    ...
+
+? 
+! Misplaced alignment tab character &.
+l.61 #define loBit(u)       ((u) &
+                                   0x00000001U)   // mask all but lowest    ...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.62 #
+      define loBits(u)      ((u) & 0x7FFFFFFFU)   // mask     the highest   ...
+
+? 
+! Misplaced alignment tab character &.
+l.62 #define loBits(u)      ((u) &
+                                   0x7FFFFFFFU)   // mask     the highest   ...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.63 #
+      define mixBits(u, v)  (hiBit(u)|loBits(v))  // move hi bit of u to hi ...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.75     //   x_
+                new = (69069 * x_old) mod 2^32
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.117 
+      
+? 
+
+Overfull \hbox (137.44984pt too wide) in paragraph at lines 70--117
+\teni x[]ld\tenrm )\teni mod\tenrm 2[]2\teni ====fromLine\tenrm 15\teni ofTable
+\tenrm 1\teni ; p:\tenrm 106\teni ; Sec:\tenrm 3\teni :\tenrm 3\teni :\tenrm 4\
+teni ofKnuths==[]heArtofComputerProgramming[]Volume\tenrm 2\teni ; \tenrm 3\ten
+i rded:====Notes\tenrm (\teni SJC\tenrm ) :|
+
+\hbox(8.14003+2.86108)x469.75499
+.\teni x
+.\hbox(3.01389+0.0)x4.44722, shifted 1.49998
+..\seveni o
+.\teni l
+.\kern0.19678
+.\teni d
+.etc.
+
+
+Overfull \hbox (413.8338pt too wide) in paragraph at lines 70--117
+\teni Idonotknowwhattheinitialstaterequirements==oftheMersenneTwisterare; butit
+seemsthisseedinggenerator==couldbebetter:Itachievesthemaximumperiodforitsmodulu
+s==\tenrm (2[]0)\teni iffx[]nitialisodd\tenrm (\teni p:\tenrm 20 \tensy ^^@|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\teni I
+.\kern0.7847
+.\teni d
+.\teni o
+.\teni n
+.etc.
+
+
+Overfull \hbox (66.7514pt too wide) in paragraph at lines 70--117
+\tenrm 21\teni ; Sec:\tenrm 3\teni :\tenrm 2\teni :\tenrm 1\teni :\tenrm 2\teni
+ ; Knuth\tenrm ); \teni if==x[]nitialcanbeeven; youhavesequenceslike\tenrm 0\te
+ni ; \tenrm 0\teni ; \tenrm 0\teni ; :::\tenrm ; \teni ==\tenrm 2[]1\teni ; \te
+nrm 2[]1\teni ; \tenrm 2[]1\teni ; :::\tenrm ; 2[]0\teni ; \tenrm 2[]0\teni ; \
+tenrm 2[]0\teni ; :::\tenrm ; 2[]9\teni ; \tenrm 2[]9 +|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\tenrm 2
+.\tenrm 1
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni S
+.etc.
+
+
+Overfull \hbox (172.14767pt too wide) in paragraph at lines 70--117
+\tenrm 2[]1\teni ; ==\tenrm 2[]9\teni ; \tenrm 2[]9 + 2[]1\teni ; :::; etc:soIf
+orceseedtobeoddbelow:====Evenifx[]nitialisodd; ifx[]nitialis\tenrm 1\teni mod\t
+enrm 4\teni then====thelowestbitofxisalways\tenrm 1\teni ; ==thenext \tensy ^^@
+|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\tenrm 2
+.\hbox(4.51111+0.0)x4.48613, shifted -3.62892
+..\sevenrm 3
+.\tenrm 1
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.etc.
+
+
+Overfull \hbox (292.99123pt too wide) in paragraph at lines 70--117
+\teni lowestbitofx\tenrm 4 \tensy ^^@ \teni cycles:::\tenrm 01100110\teni :::; 
+==the\tenrm 4\teni th \tensy ^^@ \teni from \tensy ^^@ \teni lowestbitofxhasthe
+\tenrm 8 \tensy ^^@ \teni cycle:::\tenrm 00011110\teni :::; ==:::====andifx[]ni
+tialis\tenrm 3\teni mod\tenrm 4\teni then====thelowestbitofxisalways\tenrm 1\te
+ni ; ==thenext \tensy ^^@|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni l
+.\kern0.19678
+.\teni o
+.\teni w
+.\kern0.26909
+.etc.
+
+
+Overfull \hbox (133.00542pt too wide) in paragraph at lines 70--117
+\teni lowestbitofx\tenrm 4 \tensy ^^@ \teni cycles:::\tenrm 00110011\teni :::; 
+==the\tenrm 4\teni th \tensy ^^@ \teni from \tensy ^^@ \teni lowestbitofxhasthe
+\tenrm 8 \tensy ^^@ \teni cycle:::\tenrm 00111100\teni :::; ==:::====Thegenerat
+orspotency\tenrm (\teni min:s >\tenrm =|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni l
+.\kern0.19678
+.\teni o
+.\teni w
+.\kern0.26909
+.etc.
+
+
+Overfull \hbox (1432.58145pt too wide) in paragraph at lines 70--117
+\tenrm 0\teni with\tenrm (69069 \tensy ^^@ \tenrm 1)[] = 0\teni mod\tenrm 2[]2)
+\teni is==\tenrm 16\teni ; whichseemstobealrightbyp:\tenrm 25\teni ; Sec:\tenrm
+ 3\teni :\tenrm 2\teni :\tenrm 1\teni :\tenrm 3\teni ofKnuth:It==alsodoeswellin
+thedimension\tenrm 2\teni ::\tenrm 5\teni spectraltests; butitcouldbe==betterin
+dimension\tenrm 6(\teni Line\tenrm 15\teni ; Table\tenrm 1\teni ; p:\tenrm 106\
+teni ; Sec:\tenrm 3\teni :\tenrm 3\teni :\tenrm 4\teni ; Knuth\tenrm )\teni :==
+==Notethattherandomnumberuserdoesnotseethevaluesgenerated==heredirectlysincerel
+oadMT\tenrm ()\teni willalwaysmungethemfirst; somaybe==noneofallofthismatters:I
+nfact; theseedvaluesmadeherecould==evenbeextra \tensy ^^@|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\tenrm 0
+.\teni w
+.\kern0.26909
+.\teni i
+.\teni t
+.etc.
+
+
+Overfull \hbox (36.42839pt too wide) in paragraph at lines 70--117
+\teni specialdesirableiftheMersenneTwistertheorysays==so \tensy ^^@ ^^@\teni th
+atswhytheonlychangeImadeistorestricttooddseeds:==$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni s
+.\teni p
+.\teni e
+.\teni c
+.\teni i
+.etc.
+
+! Misplaced alignment tab character &.
+l.118     register uint32 x = (seed | 1U) &
+                                            0xFFFFFFFFU, *s = state;
+? 
+! Misplaced alignment tab character &.
+l.122         *s++ = (x*=69069U) &
+                                   0xFFFFFFFFU);
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.137         *p0++ = *pM++ ^
+                              (mixBits(s0, s1) >> 1) ^ (loBit(s1) ? K : 0U);
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.138 
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.140         *p0++ = *pM++ ^
+                              (mixBits(s0, s1) >> 1) ^ (loBit(s1) ? K : 0U);
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.141 
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.142     s1=state[0], *p0 = *pM ^
+                                   (mixBits(s0, s1) >> 1) ^ (loBit(s1) ? K :...
+
+? 
+! Misplaced alignment tab character &.
+l.144     s1 ^= (s1 <<  7) &
+                             0x9D2C5680U;
+? 
+! Misplaced alignment tab character &.
+l.145     s1 ^= (s1 << 15) &
+                             0xEFC60000U;
+? 
+! Extra }, or forgotten $.
+l.147  }
+        
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.148 
+      
+? 
+
+Overfull \hbox (91.16379pt too wide) in paragraph at lines 142--148
+[]\tenrm s1=state[0], *p0 = *pM $[]\teni mixBits\tenrm (\teni s\tenrm 0\teni ; 
+s\tenrm 1) \teni >> \tenrm 1)[]\teni loBit\tenrm (\teni s\tenrm 1)?\teni K \ten
+rm : 0\teni U\tenrm ); \teni s\tenrm 1[](\teni s\tenrm 1 \teni >> \tenrm 11); \
+teni s\tenrm 1[](\teni s\tenrm 1 \teni << \tenrm 7)0\teni x\tenrm 9\teni D\tenr
+m 2\teni C\tenrm 5680\teni U\tenrm ; \teni s\tenrm 1[](\teni s\tenrm 1 \teni <<
+|
+
+\hbox(8.87892+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm s
+.\tenrm 1
+.\tenrm =
+.\tenrm s
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.158     y ^
+             = (y >> 11);
+? 
+! Misplaced alignment tab character &.
+l.159     y ^= (y <<  7) &
+                           0x9D2C5680U;
+? 
+! Misplaced alignment tab character &.
+l.160     y ^= (y << 15) &
+                           0xEFC60000U;
+? 
+! Extra }, or forgotten $.
+l.163  }
+        
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.164 
+      
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.166  #
+        define uint32 unsigned long
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.167 #
+       define SMALL_INT char
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.167 #define SMALL_
+                    INT char
+? 
+! You can't use `macro parameter character #' in math mode.
+l.168 #
+       define SMALL_INT_CLASS mxCHAR_CLASS
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.171 
+      
+? 
+
+Overfull \hbox (215.44078pt too wide) in paragraph at lines 165--171
+[]\tenrm /* de-fine uint32 unsi-gned long de-fine SMALL$[]\teni NTchardefineSMA
+LL[]NT[]LASSmxCHAR[]LASSvoidseedMT\tenrm (\teni uint\tenrm 32\teni seed\tenrm )
+; \teni uint\tenrm 32\teni randomMT\tenrm (\teni void\tenrm );$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm *
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm d
+.etc.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.172 #
+       include "stdio.h"
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.173 #
+       include "math.h"
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.179 ...y uint32, but the best are odds in 0..(2^
+                                                  32 - 1)
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.180 
+      
+? 
+[1])
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+<*> src/cokus.cpp src/mex_
+                          regressionRF_train.cpp src/reg_RF.cpp -o mexRF_tra...
+
+? 
+
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+<*> 
+    
+? 
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+[2]
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 151 ({)
+### simple group (level 1) entered at line 127 ({)
+### bottom level
+Output written on cokus.dvi (2 pages, 10440 bytes).

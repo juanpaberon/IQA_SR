@@ -1,6 +1,4 @@
 function prediction = predict_general(images_features,num_images,B,rf)
-    
-%     addpath('Functions/MY','Functions/MY/external/matlabPyrTools','Functions/MY/external/randomforest-matlab/RF_Reg_C')
 
     prediction = zeros(num_images,1);
 

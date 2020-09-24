@@ -124,10 +124,12 @@ end
 
 if flg
 
-    for n = 1:num_im
-        s1=regRF_predict(im_features(:,n)',rf{1});
-        Qoda(n) = [1 s1]*B;
-    end
+%     for n = 1:num_im
+%         s1=regRF_predict(im_features(:,n)',rf{1});
+%         Qoda(n) = [1 s1]*B;
+%     end
+
+    addpath('OA_metric_tools/randomforest-matlab/RF_Reg_C')
 
     Qoda = predict_general(im_features',num_im,B,rf);
     Q1oda = predict_Q1(im_features',num_im,B_Q1,rf_Q1);
